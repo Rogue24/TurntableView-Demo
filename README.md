@@ -1,14 +1,10 @@
 # TurntableView-Demo
 
+基于UIScrollView实现的圆环转盘效果。
+
 实现效果：
 
 ![TurntableView-Demo_1](https://github.com/Rogue24/JPCover/raw/master/TurntableView-Demo/TurntableView-Demo_1.gif)
-
-## 需求背景
-
-单个星球会有0~15个关系用户，每个用户以星球中点为圆心环绕摆放，星球只展示一半，并且能上下拖动查看更多用户，如图所示：
-
-![TurntableView-Demo_0](https://github.com/Rogue24/JPCover/raw/master/TurntableView-Demo/TurntableView-Demo_0.jpg)
 
 ## 实现方案
 
